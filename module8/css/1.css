@@ -1,0 +1,218 @@
+.module-8{
+	width: 100%;
+    padding-right: 36px;
+    padding-left: 36px;
+}
+.module-8{
+
+
+}
+.fy-post .fy-post-image a {
+    display: block;
+    overflow: hidden;
+    border-radius: 4px;
+    }
+    a:hover {
+    color: #c8504b;
+}
+.hinh4{
+	margin: 0;
+}
+.hinh4-images{
+    position: relative;
+    overflow: visible;
+    background-color: #2d2323;
+}
+figure {
+    padding: 0;
+    }
+figure {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 40px;
+    -webkit-margin-end: 40px;
+}
+.hinh4{
+	padding-left :54px;
+}
+.hinh4{
+	flex-basis: 50%;
+    width: 50%;
+    max-width: 50%;
+}
+.fy-flex-container.fy-flex-gutter-large > [class*=" fy-flex-column"] {
+    padding-left: 54px;
+    }
+    .fy-flex-container > [class*=" fy-flex-column"] {
+  
+}
+.fy-flex-container .fy-flex-column-auto {
+flex-basis: 0;
+    width: auto;
+    max-width: 100%;	
+}
+.fy-post .fy-post-header {
+    margin-bottom: 18px;
+}
+.fy-post .fy-post-header h3 {
+    margin: 0;
+    }
+    h3{
+    font-family: Archivo Narrow;
+    font-weight: 700;
+    line-height: 1.3;
+    text-transform: none;
+    letter-spacing: 0;
+    word-wrap: break-word;
+
+    }
+    h3{
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    }
+    post-header h3 a {
+    border-bottom: 2px solid rgba(225,215,215,0.1);
+}
+a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #e1d7d7;
+    transition-property: color, background-color, border-color;
+}
+h3{
+	font-size: 26px;
+}
+h3{
+	font-family: Archivo Narrow;
+    font-weight: 700;
+    line-height: 1.3;
+    text-transform: none;
+    letter-spacing: 0;	
+    word-wrap: break-word;
+}
+.fy-post-event .fy-post-header .fy-post-date {
+    display: block;
+    margin-top: 6px;
+    color: #c8504b;
+}
+.fy-post .fy-post-date{
+	padding-top: 0;
+}
+small, .fy-small {
+    font-size: 80%;
+}
+h3{
+	font-family: Archivo Narrow;
+    font-weight: 700;
+    line-height: 1.3;
+    text-transform: none;
+    letter-spacing: 0;
+    word-wrap: break-word;
+}
+.fy-post-event .fy-post-header {
+    margin-top: 18px;
+}
+.fy-post .fy-post-header {
+    margin-bottom: 18px;
+}
+.fy-post .fy-post-excerpt {
+    max-width: 100%;
+}
+.fy-flex-container .fy-flex-container:last-child {
+    padding-bottom: 0;
+}
+.fy-flex-container.fy-flex-container-center {
+	    align-items: center;
+
+	}
+	.fy-flex-container {
+    margin-left: -36px;
+}
+.fy-flex-container {
+    display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    padding: 0;
+    margin: 0;
+}
+fy-flex-container.fy-flex-gutter-large > [class*=" fy-flex-column"] {
+    padding-left: 54px;
+    }
+    .fy-flex-container .fy-flex-column-auto {
+    flex-basis: 0;
+    width: auto;
+    max-width: 100%;
+        flex-grow: 1;
+    }
+    .fy-post .fy-post-footer .fy-button {
+    position: relative;
+    color: #e1d7d7;
+}
+.fy-button.fy-button-border {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    background-color: transparent;
+    border-color: #c8504b;
+    }
+    .fy-button.fy-button-small{
+    	font-size: 16px;
+    line-height: 1.5;
+    }
+    .fy-button {
+    padding: 15px 36px;
+    font-family: Archivo Narrow;
+    text-transform: none;
+    letter-spacing: 0;
+        transition: all 0.3s ease-in-out 0s;
+    order: 2px solid transparent;
+}
+.fy-button {
+    display: inline-block;
+        font-weight: 700;
+    white-space: nowrap;
+    vertical-align: top;
+    ursor: pointer;
+    outline: none;
+    -webkit-appearance: none;
+}
+.fy-align-right {
+    text-align: right;
+}
+.fy-flex-container .fy-flex-container:last-child {
+    padding-bottom: 0;
+}
+.fy-flex-container.fy-flex-container-center {
+align-items: center;
+	}
+
+	.fy-flex-container {
+    margin-left: -36px;
+}
+.fy-flex-container {
+	flex-wrap: wrap;
+    padding: 0;
+    margin: 0;
+}
+.fy-flex-container.fy-flex-gutter-large > [class*=" fy-flex-column"] {
+    padding-left: 54px;
+}
+.fy-post-event {
+    padding-bottom: 36px
+    ;
+    margin-bottom: 36px;
+}
+.fy-post {
+    position: relative;
+    }
+    .fy-flex-container.fy-flex-gutter-large {
+    margin-left: -54px;
+}
+.fy-flex-container.fy-flex-container-center {
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
